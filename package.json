@@ -1,0 +1,14 @@
+{
+  "name": "password-grabber",
+  "version": "1.0.0",
+  "description": "Displays the wifi passwords for all the wifi that were/are connected to your PC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wifi-pass"
+  ],
+  "author": "Ayush Chowdhury",
+  "license": "MIT"
+}
